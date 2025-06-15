@@ -1,8 +1,8 @@
-livekit-agents
-livekit-plugins-openai
-livekit-plugins-silero
+livekit-agents==0.12.8
+livekit-plugins-openai==0.10.15
+livekit-plugins-silero==0.7.4
 python-dotenv
-livekit-api
+livekit-api==0.8.1
 flask[async]
 flask
 flask-cors
